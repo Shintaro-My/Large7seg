@@ -458,6 +458,18 @@
       {
         "netclass": "pwr",
         "pattern": "GND"
+      },
+      {
+        "netclass": "pwr",
+        "pattern": "PWR1"
+      },
+      {
+        "netclass": "pwr",
+        "pattern": "PWR2"
+      },
+      {
+        "netclass": "pwr",
+        "pattern": "PWR3"
       }
     ]
   },
